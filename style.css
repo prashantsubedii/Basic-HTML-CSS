@@ -43,7 +43,7 @@ body{
 }
 
 .banner{
-    background-image: url(bnr.gif);
+    background-image: url(images/bnr.gif);
     height: 700px;
     background-size: cover;
     position: relative;
